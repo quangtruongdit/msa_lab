@@ -289,19 +289,19 @@
     ]
   },
   "packageFolders": {
-    "/home/quangtruongd/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/quangtruongd/msa/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
+      "projectUniqueName": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
       "projectName": "MSA.Common.Contracts",
-      "projectPath": "/home/quangtruongd/msa/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
-      "packagesPath": "/home/quangtruongd/.nuget/packages/",
-      "outputPath": "/home/quangtruongd/msa/MSA.Common.Contracts/obj/",
+      "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/quangtruongd/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
