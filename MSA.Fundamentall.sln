@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSA.BankService", "MSA.Bank
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSA.IdentityServer", "MSA.IdentityServer\MSA.IdentityServer.csproj", "{083C751C-2451-41CE-B98B-274960041DDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSA.Common.Security", "MSA.Common.Security\MSA.Common.Security.csproj", "{CF2F830B-18F1-4CF6-965C-0F73ED348DB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{083C751C-2451-41CE-B98B-274960041DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{083C751C-2451-41CE-B98B-274960041DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{083C751C-2451-41CE-B98B-274960041DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2F830B-18F1-4CF6-965C-0F73ED348DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2F830B-18F1-4CF6-965C-0F73ED348DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2F830B-18F1-4CF6-965C-0F73ED348DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2F830B-18F1-4CF6-965C-0F73ED348DB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

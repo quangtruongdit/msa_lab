@@ -1,0 +1,15 @@
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/bin/Debug/net7.0/MSA.Common.Security.deps.json
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/bin/Debug/net7.0/MSA.Common.Security.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/bin/Debug/net7.0/MSA.Common.Security.pdb
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/bin/Debug/net7.0/MSA.Common.Contracts.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/bin/Debug/net7.0/MSA.Common.Contracts.pdb
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.csproj.AssemblyReference.cache
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.AssemblyInfoInputs.cache
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.AssemblyInfo.cs
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.csproj.CoreCompileInputs.cache
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.csproj.CopyComplete
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/refint/MSA.Common.Security.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/MSA.Common.Security.pdb
+/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/Debug/net7.0/ref/MSA.Common.Security.dll

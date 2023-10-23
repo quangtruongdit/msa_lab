@@ -217,6 +217,69 @@
         }
       }
     },
+    "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/MSA.Common.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/MSA.Common.Security.csproj",
+        "projectName": "MSA.Common.Security",
+        "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/MSA.Common.Security.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/MSA.Common.Contracts.csproj": {
+                "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/MSA.Common.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/MSA.ProductService.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -247,6 +310,9 @@
               },
               "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.PostgresMassTransit/MSA.Common.PostgresMassTransit.csproj": {
                 "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.PostgresMassTransit/MSA.Common.PostgresMassTransit.csproj"
+              },
+              "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/MSA.Common.Security.csproj": {
+                "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Security/MSA.Common.Security.csproj"
               }
             }
           }

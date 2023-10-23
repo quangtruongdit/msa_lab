@@ -72,3 +72,12 @@
 /home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/System.CodeDom.dll
 /home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/MSA.Common.PostgresMassTransit.dll
 /home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/MSA.Common.PostgresMassTransit.pdb
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/MSA.Common.Security.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/bin/Debug/net7.0/MSA.Common.Security.pdb
