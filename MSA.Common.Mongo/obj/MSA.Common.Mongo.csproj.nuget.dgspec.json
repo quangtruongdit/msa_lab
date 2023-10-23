@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
         "projectName": "MSA.Common.Contracts",
         "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/quangtruongd/.nuget/packages/",
         "outputPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/quangtruongd/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -77,11 +77,11 @@
         "projectUniqueName": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Mongo/MSA.Common.Mongo.csproj",
         "projectName": "MSA.Common.Mongo",
         "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Mongo/MSA.Common.Mongo.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/quangtruongd/.nuget/packages/",
         "outputPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Mongo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/quangtruongd/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

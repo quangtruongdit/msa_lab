@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2a4jOveEkNj2iPdfGHdkOUQv83e23chGFEtC2XD7p6p1c96ZOQ05twSaIKtXHsDQlkNzagHgAgSLfbtlzcLwPg==",
+  "dgSpecHash": "j3Hnc7f/jkbkGAeWCZheHjxzwoSA82q8pMUJuutvkAZqYF1tXm6OWVvWABkEi4VyRD9rSQjcchlucPLIR20Rzg==",
   "success": true,
   "projectFilePath": "/home/quangtruongd/msa_lab/msa_lab/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
   "expectedPackageFiles": [
-    "/root/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.extensions.configuration.binder/7.0.4/microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "/home/quangtruongd/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/home/quangtruongd/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/quangtruongd/.nuget/packages/microsoft.extensions.configuration.binder/7.0.4/microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "/home/quangtruongd/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/quangtruongd/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/quangtruongd/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

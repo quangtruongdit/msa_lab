@@ -3452,7 +3452,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/quangtruongd/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3460,11 +3460,11 @@
       "projectUniqueName": "/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/MSA.ProductService.csproj",
       "projectName": "MSA.ProductService",
       "projectPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/MSA.ProductService.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/quangtruongd/.nuget/packages/",
       "outputPath": "/home/quangtruongd/msa_lab/msa_lab/MSA.ProductService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/quangtruongd/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
