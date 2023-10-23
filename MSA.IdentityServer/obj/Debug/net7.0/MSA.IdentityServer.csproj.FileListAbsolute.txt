@@ -44,3 +44,4 @@
 /home/quangtruongd/msa_lab/msa_lab/MSA.IdentityServer/obj/Debug/net7.0/MSA.IdentityServer.pdb
 /home/quangtruongd/msa_lab/msa_lab/MSA.IdentityServer/obj/Debug/net7.0/MSA.IdentityServer.genruntimeconfig.cache
 /home/quangtruongd/msa_lab/msa_lab/MSA.IdentityServer/obj/Debug/net7.0/ref/MSA.IdentityServer.dll
+/home/quangtruongd/msa_lab/msa_lab/MSA.IdentityServer/bin/Debug/net7.0/keys/is-signing-key-57E622A27B223AE924DA4B124D38FE26.json
