@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "+PpBX8sw4PUx60LlN5fPt3CCxZ70aVWFJh0az/GbDX+AzLRJObs3pu1CYRWOsBwYHmyoTeLoYuNQDL7fgK9S2w==",
+  "success": true,
+  "projectFilePath": "/home/quangtruongd/msa_lab/msa_lab/MSA.IdentityServer/MSA.IdentityServer.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/duende.identityserver/6.3.5/duende.identityserver.6.3.5.nupkg.sha512",
+    "/root/.nuget/packages/duende.identityserver.storage/6.3.5/duende.identityserver.storage.6.3.5.nupkg.sha512",
+    "/root/.nuget/packages/identitymodel/6.1.0/identitymodel.6.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/7.0.0/microsoft.aspnetcore.authentication.openidconnect.7.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.dataprotection.abstractions/7.0.0/microsoft.aspnetcore.dataprotection.abstractions.7.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.openapi/7.0.12/microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.15.1/microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.identitymodel.logging/6.15.1/microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.identitymodel.protocols/6.15.1/microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.15.1/microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.identitymodel.tokens/6.15.1/microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/root/.nuget/packages/system.identitymodel.tokens.jwt/6.15.1/system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "/root/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
